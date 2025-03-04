@@ -1,8 +1,8 @@
-nginx
-redis
-mysql
-minio/minio
-dragonwell:8
+#nginx
+#redis
+#mysql
+#minio/minio
+#dragonwell:8
 truevoly/oracle-12c
 #支持私库
 #支持指定架构
